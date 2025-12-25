@@ -15,14 +15,13 @@ The script demonstrates:
 ## Files
 
 - `list_operations.py` — original script (kept as written)
-- `list_operations_fixed.py` — step-aligned version with small corrections while preserving the same logic
 - `README.md` — documentation and line-by-line explanation
 
 ## How to run (Spyder)
 
 1. Open Anaconda Navigator
 2. Launch Spyder IDE
-3. Open `list_operations.py` (or `list_operations_fixed.py`)
+3. Open `list_operations.py` 
 4. Run the script (Run button or `F5`)
 5. Review output in the console
 
@@ -152,7 +151,7 @@ print("Last three elements:", list_numbers[-3])
 ```
 - `list_numbers[-3]` returns the single element that is “third from the end”.
 - To print the last three elements as a group, the slice form is:
-  - `list_numbers[-3:]` (this is included in `list_operations_fixed.py`)
+  - `list_numbers[-3:]`
 
 ### Tuple creation (fixed container)
 
@@ -204,7 +203,7 @@ print("I am slicing my tuple and printing the first 5 values:", number_tuple[:5]
 
 ---
 
-## Recruiter-facing highlights
+## What you learned
 
 - Demonstrates Python control flow: loops, conditionals
 - Demonstrates list operations: creation, append, slicing
