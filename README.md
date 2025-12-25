@@ -211,3 +211,18 @@ print("I am slicing my tuple and printing the first 5 values:", number_tuple[:5]
 - Demonstrates data integrity concept: converting to tuples for immutability
 - Provides traceable console output suitable for validation
 
+
+----
+
+screenshots of my work:
+
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/13236ad5-7188-4467-93a8-ae37cbc73fef" />
+
+
+----
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c5cc9896-7c5e-4ef7-8f6b-ae82314e4bc8" />
+
+
